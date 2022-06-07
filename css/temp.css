@@ -1,0 +1,88 @@
+/*--------- PC ヘッダー ---------*/
+
+.l-header{
+   
+}
+
+/*--------- PC メインコンテンツ ---------*/
+
+/* 以下、各オブジェクト雛形 */
+
+  /*ボタンスタイル
+.c-button{
+  display: block;
+  width: 70px;
+  margin: 0 auto;
+  padding: 5px 10px;
+  background-color: ;
+  color: ;
+  text-align: center;
+  text-decoration: none;
+  border: solid 1px;
+  border-radius: 10px;
+}
+
+.c-button:hover{
+  opacity: 0.5;
+  transition: 1s;
+}
+*/
+
+  /* 背景画像スタイル
+.c-background{
+  width: ;
+  height: ;
+  margin: auto;
+  background-image: url();
+  background-position: center 0px;
+  background-repeat: ;
+  background-size:0px 0px;
+}
+*/
+
+/*--------- PC フッター ---------*/
+
+.l-footer{
+}
+
+.p-copywrite{
+
+}
+
+.u-copywrite{
+
+}
+
+/* ============= PC縮小時 ============== */
+
+@media(max-width: 1024px){
+
+}
+
+/* ============= ipad ============== */
+
+@media(max-width: 768px){
+  
+  /*--------- iPad ヘッダー ---------*/ 
+
+  /*--------- iPad メインコンテンツ ---------*/
+
+  /*--------- iPad フッター ---------*/
+
+}
+
+/* ============= sp ============== */
+
+@media(max-width: 414px){
+  
+  /*--------- SP ヘッダー  ---------*/
+
+  /*--------- SP メインコンテンツ ---------*/
+
+  /*--------- SP フッター ---------*/
+
+}
+
+@media(max-width: 375px){
+
+}
